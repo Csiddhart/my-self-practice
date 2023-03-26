@@ -1,4 +1,4 @@
-here links of imp prac question are there 
+here links of imp prac question are there:-
 
 https://practice.geeksforgeeks.org/problems/triangle-number-1661489840/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=pattern_6
 https://practice.geeksforgeeks.org/problems/triangle-pattern-1661493231/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=pattern_8
@@ -23,4 +23,16 @@ https://leetcode.com/problems/valid-palindrome/
 https://leetcode.com/problems/fibonacci-number/
 https://practice.geeksforgeeks.org/problems/print-n-to-1-without-loop/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=print-n-to-1-without-loop
 https://practice.geeksforgeeks.org/problems/sum-of-first-n-terms5843/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=sum-of-first-n-terms
+
+https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1
+https://practice.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1
+https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/
+https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+https://leetcode.com/problems/two-sum/
+
+https://leetcode.com/problems/move-zeroes/
+https://leetcode.com/problems/rotate-array/
+https://leetcode.com/problems/missing-number/description/
+https://leetcode.com/problems/max-consecutive-ones/
+https://leetcode.com/problems/pascals-triangle/
 
