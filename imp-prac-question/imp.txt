@@ -59,3 +59,9 @@ https://leetcode.com/problems/longest-consecutive-sequence/
 https://leetcode.com/problems/subarray-sum-equals-k/4
 https://leetcode.com/problems/next-permutation/
 https://leetcode.com/problems/set-matrix-zeroes/
+
+https://leetcode.com/problems/rotate-image/
+https://leetcode.com/problems/container-with-most-water/
+https://leetcode.com/problems/majority-element-ii/
+https://leetcode.com/problems/4sum/
+https://leetcode.com/problems/reverse-pairs/
